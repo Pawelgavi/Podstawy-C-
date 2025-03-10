@@ -29,7 +29,7 @@ namespace zadanie6
             case 9: Console.WriteLine("wrzesień"); break;
             case 10: Console.WriteLine("październik"); break;
             case 11: Console.WriteLine("listopad"); break;
-            case 12: Console.WriteLine("grudzień"); break;
+            case 12: Console.WriteLine("grudziń"); break;
             default:Console.WriteLine("Podany miesiąc nie istnieje"); break;
             }
                 Console.ReadKey(true);
